@@ -31,4 +31,4 @@ gunicorn = "*"
 django-heroku = "*"
 
 [requires]
-python_version = "2.7"
+python_version = "python-3.6.4"
